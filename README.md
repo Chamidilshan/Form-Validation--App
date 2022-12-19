@@ -1,10 +1,19 @@
-# form_validatition
+# Form Validation App
 
-A new Flutter project.
+A simple flutter app which has a Log In page.
+## Authors
 
-## Getting Started
+- [@Chamidilshan](https://www.github.com/Chamidilshan)
 
-This project is a starting point for a Flutter application.
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
+
+
+## Lessons Learned
+- How to use email validation
+- How to use password validation
+
 
 A few resources to get you started if this is your first Flutter project:
 
